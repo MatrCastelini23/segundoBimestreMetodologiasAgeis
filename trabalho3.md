@@ -60,5 +60,22 @@ https://trello.com/b/6n9UZGS3/meu-quadro-do-trello
 
 ### Evidencias de uso do Fluxo
 
+#### Aplicação do fluxo Kanban
+![alt text](image-1.png)
+
+#### Detalhamento de uma tarefa:
+![alt text](image-2.png)
+
 ### Breve justificativa da configuração
 
+A configuração do quadro Kanban foi definida com o objetivo de proporcionar maior organização, transparência e controle sobre o fluxo de desenvolvimento.
+
+Foram estabelecidas cinco etapas para representar o ciclo de vida das tarefas:
+- Aguardando desenvolvimento: reúne tarefas que já foram planejadas, mas ainda aguardam o início do desenvolvimento. O limite de WIP é 4 para evitar o acúmulo excessivo de atividades pendentes.
+- Em desenvolvimento: concentra as tarefas que estão sendo implementadas pelos desenvolvedores. O limite de WIP é 2 para incentivar o foco e evitar que muitas atividades sejam iniciadas simultaneamente.
+- Em testes: reúne as funcionalidades que passaram pelo desenvolvimento e precisam ser validadas. O limite de WIP é 2 para garantir atenção adequada à qualidade das entregas.
+- Refatorando: representa as tarefas que necessitam de melhorias estruturais, otimização ou ajustes no código. O limite de WIP é 2 para evitar o acúmulo de atividades de melhoria.
+- Entregue: contém as tarefas concluídas e disponibilizadas em produção. Essa coluna não possui limite de WIP, pois representa o histórico de entregas realizadas.
+As etiquetas (Labels) foram utilizadas para facilitar a identificação visual da situação de cada tarefa. Além disso, os limites de WIP (Work in Progress) foram definidos para controlar o volume de atividades simultâneas, reduzir gargalos e incentivar a conclusão das tarefas antes do início de novas atividades.
+
+Dessa forma, o fluxo permite acompanhar o progresso do projeto, identificar etapas com acúmulo de tarefas e melhorar a previsibilidade das entregas.
