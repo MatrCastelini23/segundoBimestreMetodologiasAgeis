@@ -31,12 +31,12 @@ https://drive.google.com/file/d/1wPEMJcKBGySr1ms94i-KtiKa1MpYnZp4/view?usp=shari
 - O produto ou serviço web está explicado?
     - Não claramente, cenário descrito apenas de aplicação Web.
 - Usuários e stakeholders estão identificados?
-    - Não, nos slides.
+    - Sim, na página dois dos slides do segundo trabalho
 - O principal problema está explícito?
     - Não exatamente, possui apenas o fluxo configurado.
 - Restrições foram consideradas?
     - Sim, todos os estágios possuim limites no WIP.
 - A abordagem escolhida responde ao contexto?
-    - Sim, possui elementos de Kanban apenas.
+    - Sim, possui elementos de Kanban + XP.
 - As práticas possuem finalidade clara?
     - Sim, nos slides possui uma descrição boa da finalidade.
