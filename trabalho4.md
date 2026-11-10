@@ -134,8 +134,3 @@ Papéis sugeridos, a serem ajustados pelo grupo:
 | Dependência de poucas pessoas em módulos críticos | Média / Médio | Revisão cruzada e rodízio de tarefas | Histórico de revisões |
 | Acúmulo de débito técnico | Média / Médio | Coluna "Refatorando" com WIP 2 e itens na retro | Cartões de refatoração |
 
-### Evidências de acompanhamento
-
-- Captura do quadro com as colunas e limites de WIP (imagens já presentes no trabalho3.md).
-- Detalhamento de um cartão.
-- A cada sprint, o resultado da retrospectiva com os riscos revistos.
