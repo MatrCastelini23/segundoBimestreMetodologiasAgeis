@@ -1,5 +1,14 @@
 # Trabalho 3
 
+### Alunos: 
+- Matheus Janoca Castelini  --  RA: 250289
+- Lyzandra Henrique  --  RA: 250395
+- Pedro Henrique Gonçalvez de Souza  --  RA: 250275
+- Gislaine Rodrigues da SIlveira  --  RA: 250385
+- Elienay Henrique da Silva Souza  --  RA: 250283
+- Lucas Mateus Galdino dos Santos -- RA: 250272
+
+
 ## Board no Trelo
 Link:
 https://trello.com/b/6n9UZGS3/meu-quadro-do-trello
